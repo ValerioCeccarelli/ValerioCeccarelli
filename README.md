@@ -4,7 +4,9 @@
 
 ---
 
-I am an Italian Software Engineering student at Sapienza University, Rome
+I am an Italian Software Engineering student at Sapienza University, Rome.
+
+Currently I'm interested in C# and .NET Core for developing web server or REST api, but I also created and published on Play Store an Android game called [Turbal](https://play.google.com/store/apps/details?id=com.ValerioEngine.Turball).
 
 ---
 
