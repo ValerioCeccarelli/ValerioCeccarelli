@@ -4,19 +4,21 @@
 
 ---
 
-I am an Italian Software Engineering student at Sapienza University, Rome.
+I'm an Italian guy interested in computer science.
 
-Currently I'm interested in C# and .NET Core for developing web server or REST api, but I also created and published on Play Store an Android game called [Turbal](https://play.google.com/store/apps/details?id=com.ValerioEngine.Turball).
+I have a Barcelor degree in Software Engineering at Sapienza of Rome, and now I'm enrolled in the Master's Software Engineering and Artificial Intelligence course at Politecnico of Milan.
 
----
+In 2023 I had the fantastic opportunity to be a Software Developing Engineer at Amazon in Luxembour; it was my first work experience and I loved it: I loved the role, the team and the office!
+it was an important opportunity for personal growth where I was able to show my skills by facing real world challenges; I'm proud to have earned the team's trust, and to have made changes that now impact the entire Amazon network.
 
-#### Mostly interested in:
+But computer science, as well as education and work, is my hobby: I like to experiment and learn new technologies and new programming languages as shown by my repositories.
+My idea is that to be an excellent SDE you need to know many things so that you can choose the right technology to solve a problem; 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="csharp logo" width="40" height="40" />
+After all, though, my favorite language is
 
-#### But also:
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="dotnet logo" width="40" height="40" />
+I've done a lot of projects with it like [Turball](https://play.google.com/store/apps/details?id=com.ValerioEngine.Turball), an arcade game developed with Unity for Android and published on the Google Play Store.
 
 ---
 
