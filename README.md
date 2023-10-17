@@ -6,7 +6,7 @@
 
 I'm an Italian guy interested in computer science.
 
-I have a Barcelor degree in Software Engineering at Sapienza of Rome, and now I'm enrolled in the Master's Software Engineering and Artificial Intelligence course at Politecnico of Milan.
+I have a bachelor degree in Software Engineering from Sapienza University of Rome, and I am now enrolled in the master's course in Software Engineering and Artificial Intelligence at the Politecnico of Milan.
 
 In 2023 I had the fantastic opportunity to be a Software Developing Engineer at Amazon in Luxembour; it was my first work experience and I loved it: I loved the role, the team and the office!
 it was an important opportunity for personal growth where I was able to show my skills by facing real world challenges; I'm proud to have earned the team's trust, and to have made changes that now impact the entire Amazon network.
