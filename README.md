@@ -8,7 +8,7 @@ I'm an Italian guy interested in computer science.
 
 I have a bachelor degree in Software Engineering from Sapienza University of Rome, and I am now enrolled in the master's course in Software Engineering and Artificial Intelligence at the Politecnico of Milan.
 
-In 2023 I had the fantastic opportunity to be a Software Developing Engineer at Amazon in Luxembour; it was my first work experience and I loved it: I loved the role, the team and the office!
+In summer 2023 and summer 2024 I had the fantastic opportunity to be a Software Developer Engineer at Amazon in Luxembour; it was my first work experience and I loved it: I loved the role, the team and the office!
 it was an important opportunity for personal growth where I was able to show my skills by facing real world challenges; I'm proud to have earned the team's trust, and to have made changes that now impact the entire Amazon network.
 
 But computer science, as well as education and work, is my hobby: I like to experiment and learn new technologies and new programming languages as shown by my repositories.
